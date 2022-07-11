@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("rebase test\n");
+	printf("master test\n");
 	return 0;
 }
 
